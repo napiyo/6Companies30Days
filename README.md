@@ -1,2 +1,2 @@
 # 6Companies30Days
-30days coding challenge.
+this repo consists code solution of questions done by me under #6Companies30Days by Arsh Goyal 
